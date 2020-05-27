@@ -18,12 +18,12 @@ nav {
  }
 
 section {
-  float: right;
+  float: left;
   padding: 10px;
 
 }
 article {
-  float: right;
+  float: left;
   padding: 10px;
 }
 
