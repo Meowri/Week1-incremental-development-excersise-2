@@ -11,3 +11,7 @@ Please feel free to check out all the steps of this project and hopefully it wil
 YEAY
 
 
+https://hackyourfuture.be/incremental-development/week-1/#/float-clear
+
+https://github.com/HackYourFutureBelgium/built-with-branches
+
