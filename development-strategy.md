@@ -22,7 +22,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User Story: __
 
 __full user story description__
 
@@ -47,7 +47,7 @@ what did you change in the CSS and why?
 ## Finishing Touches
 
 - Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+ - [makeareadme.com](https://www.makeareadme.com/)
+ - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
