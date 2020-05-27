@@ -1,10 +1,30 @@
 <style>
 header{background-color: rgb(250, 171, 2);}
 header{color: rgb(189, 135, 18);}
-nav {background-color: darkgoldenrod;}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: right;
+  width: 70%;
+  background: rgb(233, 231, 132);
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+.JacksonPollock {
+    width: 50px;
+}
 aside{background-color: rgb(151, 111, 10);}
 section {background-color: rgb(124, 91, 7);}
 article{background-color: rgb(85, 63, 6);}
-footer{background-color: rgb(44, 33, 3);}
-footer{color: burlywood;}
+footer {
+  background-color: rgb(138, 95, 17);
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
 </style>
