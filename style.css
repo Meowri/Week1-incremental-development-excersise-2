@@ -1,5 +1,10 @@
-body {
+ 
+ body {
   font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+ }
+  header, footer, section, article, nav, aside {
+    display: block;
 }
 
 /* Style the header */
